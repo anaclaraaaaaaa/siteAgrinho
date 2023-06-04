@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#barra-navegacao {
+    background-color: rgb(42, 82, 42);
+    display: flex;
+}
+
+.imagem-agrinho {
+    width: 10%;
+    padding: 0;
+    margin-right: 65%;
+    margin-left: 5%;
+}
+
+.lista-barra-navegacao {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.item-lista {
+    color: aliceblue;
+    font-size: 1.1rem;
+    margin-left: 5%;
+}
+
+#conteudo-principal {
+    background-color: green;
+}
+
+.titulo-principal {
+    background-color: aquamarine;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.titulo-2 {
+    text-align: center;
+    color: aliceblue;
+}
+
+img.imagem-1 {
+    margin: 25px 15% 25px 15%;
+    width: 70%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.paragrafo {
+    padding: 5px 10px;
+    color: azure;
+}
+
+#rodape {
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(42, 82, 42);
+    color: aliceblue;
+}
