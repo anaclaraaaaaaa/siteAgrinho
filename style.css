@@ -44,10 +44,14 @@
 }
 
 img.imagem-1 {
-    margin: 25px 15% 25px 15%;
+    margin: 25px 15% 0px 15%;
     width: 70%;
     border: 3px solid green;
     padding: 10px;
+}
+
+.referencia-da-imagem {
+    text-align: center;
 }
 
 .paragrafo {
